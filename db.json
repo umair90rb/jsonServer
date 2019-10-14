@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Api Content",
+      "body": "Post content"
+    },
+    {
+      "title": "Api Blog Post",
+      "body": "Some contnet for practice",
+      "id": 2
+    },
+    {
+      "title": "New Polished Content",
+      "body": "bODY OF CONTENT",
+      "id": 3
+    },
+    {
+      "title": "REdaindgaldfkh",
+      "body": "lkdsahflkasdjflk",
+      "id": 4
+    }
+  ]
+}
